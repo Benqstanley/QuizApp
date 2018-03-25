@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="answer">Answer</string>
+
+
+    <string name="submit_string">Submit</string>
+</resources>

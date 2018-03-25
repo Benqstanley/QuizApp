@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questionArray">
+        <!--Select all that apply-->
+        <item>CheckBox</item>
+
+        <item>Question: Which of the following are examples of symptoms?</item>
+        <item>Option: Swelling</item>
+        <item>Option: Anxiety</item>
+        <item>Option: Fever</item>
+        <item>Option: Nausea</item>
+        <item>Option: Headache</item>
+        <item>Option: High Blood Pressure</item>
+        <item>Option: Rash</item>
+        <item>Option: Pain</item>
+
+        <item>Ans: Anxiety</item>
+        <item>Ans: Nausea</item>
+        <item>Ans: Headache</item>
+        <item>Ans: Pain</item>
+
+        <item>Question: Which of the following are contained within the Mediastinum?</item>
+        <item>Option: Heart</item>
+        <item>Option: Stomach</item>
+        <item>Option: Liver</item>
+        <item>Option: Thymus</item>
+        <item>Option: Esophagus</item>
+        <item>Option: Trachea</item>
+        <item>Option: Lungs</item>
+
+        <item>Ans: Heart</item>
+        <item>Ans: Thymus</item>
+        <item>Ans: Esophagus</item>
+        <item>Ans: Trachea</item>
+
+        <item>Question: Which of the following directional terms are matched correctly?</item>
+        <item>Option: Superior - Toward the head</item>
+        <item>Option: Ventral - Toward the feet</item>
+        <item>Option: Medial - nearer to the waist</item>
+        <item>Option: Proximal - nearer to the attachment of limb to the trunk</item>
+        <item>Option: Deep - toward the surface of the body</item>
+        <item>Option: Ipsilateral - on opposite sides of the body</item>
+        <item>Option: Anterior - nearer to or at the front of the body</item>
+        <item>Option: Dorsal - Nearer to or at the back of the body</item>
+
+        <item>Ans: Superior - Toward the head</item>
+        <item>Ans: Proximal - nearer to the attachment of limb to the trunk</item>
+        <item>Ans: Anterior - nearer to or at the front of the body</item>
+        <item>Ans: Dorsal - Nearer to or at the back of the body</item>
+
+        <!--Multiple Choice-->
+        <item>RadioButton</item>
+        <item>Question: Which of the following is not matched correctly?</item>
+        <item>Option: Brachial - Arm</item>
+        <item>Option: Femoral - Thigh</item>
+        <item>Option: Tarsal - Wrist</item>
+        <item>Option: Gluteal - Buttock</item>
+        <item>Option: Coxal - Hip</item>
+
+        <item>Ans: Tarsal - Wrist</item>
+
+
+        <item>Question: The midsagittal plane divides the body into:</item>
+        <item>Option: Unequal right &amp; left sides</item>
+        <item>Option: Superior and Inferior portions</item>
+        <item>Option: Anterior and posterior portions</item>
+        <item>Option: Equal right &amp; left sides</item>
+
+        <item>Ans: Equal right &amp; left sides</item>
+
+        <item>Question: Which system contains the hormone producing glands?</item>
+        <item>Option: Endocrine</item>
+        <item>Option: Lymphatic</item>
+        <item>Option: Nervous</item>
+        <item>Option: Integumentary</item>
+        <item>Option: Muscular</item>
+
+        <item>Ans: Endocrine</item>
+
+        <!--Fill in the Blank-->
+        <item>EditText</item>
+
+        <item>Question: The science of the body’s structures and their relationships is ___________.</item>
+
+        <item>Ans: Anatomy</item>
+
+        <item>Question: Interstitial Fluid, Blood Plasma, Lymph, Cerebrospinal Fluid and Synovial Fluid are all examples of _______?</item>
+
+        <item>Ans: Extracellular Fluid</item>
+
+        <item>Question: The serous membrane of the abdominal cavity is the __________.</item>
+
+        <item>Ans: Peritoneum</item>
+
+        <item>Question: A __________ feedback system strengthens or reinforces a change in a controlled condition.</item>
+
+        <item>Ans: Positive</item>
+    </string-array>
+</resources>
